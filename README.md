@@ -1,3 +1,5 @@
+# Pattern 
+
 Sample Input: 4
 Sample Output: 1
                0 1
